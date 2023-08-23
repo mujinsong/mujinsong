@@ -1,6 +1,6 @@
 
 <h1 align="center">I'm mujinsong</h1><img align="left" src="https://github-stats.ubrong.com/api?username=mujinsong&show_icons=true&locale=en&theme=gruvbox" alt="codeclode" />
-<img align="right" src="https://github-stats.ubrong.com/api/top-langs?username=codeclode&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="codeclode"/>
+<img align="right" src="https://github-stats.ubrong.com/api/top-langs?username=mujinsong&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mujinsong"/>
 
 <br><br><br><br><br><br><br><br><br>
 - 🌱 I’m currently Reviewing **the front end**
