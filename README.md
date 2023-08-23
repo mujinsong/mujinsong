@@ -5,11 +5,9 @@
 <br><br><br><br><br><br><br><br><br>
 - 🌱 I’m currently Reviewing **the front end**
 
-- 📝 I regularly write articles on [https://nextjs-blog-codeclode.vercel.app/](https://nextjs-blog-codeclode.vercel.app/)
+- 💬 Ask me about **Golang,Jave,Cpp**
 
-- 💬 Ask me about **react,Vue,JavaScript**
-
-- 📫 How to reach me **PeterLi12138@aliyun.com**
+- 📫 How to reach me **zsm20020609@gmail.com**
 <h3 align="left">My Stack</h3>
 <table style="display:inline" width="100%">
   <thead>
