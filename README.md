@@ -3,7 +3,7 @@
 <img align="right" src="https://github-stats.ubrong.com/api/top-langs?username=mujinsong&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mujinsong"/>
 
 <br><br><br><br><br><br><br><br><br>
-- 🌱 I’m currently Reviewing **the front end**
+- 🌱 I’m currently Reviewing **the back end**
 
 - 💬 Ask me about **Golang,Jave,Cpp**
 
